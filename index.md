@@ -14,6 +14,4 @@
   </tr>
 </table>
 
-### [八高找校友](1564270461676.jpeg)
-
 ### [信号与系统](https://github.com/KEVINSJM/VSC)
