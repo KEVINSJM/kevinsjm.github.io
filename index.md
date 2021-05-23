@@ -14,4 +14,3 @@
   </tr>
 </table>
 
-### [信息安全](https://github.com/KEVINSJM/IS-INFORMATION-SECURITY-)
